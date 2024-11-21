@@ -1,0 +1,15 @@
+{
+  "name": "design-patterns-head-first",
+  "version": "1.0.0",
+  "description": "A repository with many design patterns",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm test",
+    "exec": "node src/index.ts"
+  },
+  "author": "MatheusEdnei",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
